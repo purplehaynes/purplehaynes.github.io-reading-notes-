@@ -33,5 +33,5 @@ Use `git commit -m filename` to commit changes. If multiple files, use `git comm
 
 ### Cloning
 
-`git clone [repository URL]
+`git clone [repository URL]`
 
