@@ -1,37 +1,18 @@
-## Welcome to GitHub Pages
+# purplehaynes.github.io-reading-notes-
 
-You can use the [editor on GitHub](https://github.com/purplehaynes/purplehaynes.github.io-reading-notes-/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## A Growth Mindset
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+In the word of Steve Haffenden, a growth mindset:
 
-### Markdown
+> believes ones fundamental abilities can be developed through perseverance and effort.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+##### Our approach to specific issues and bumps along the learning journey can directly affect our growth as individuals. Such as 
+*how we approach obstacles and challenges, apply effort, and take criticism all play into the outcome of our individual growth.*
 
-```markdown
-Syntax highlighted code block
+Some ways I plan to maintain a grouwth mindset are 
+- Maintain an open mind when getting contructive criticism
+- Make sure I apply myself and learn at least once a day 
+- Embrace challenges as they come and learn from my shortcomings.
 
-# Header 1
-## Header 2
-### Header 3
+***Maintaining these growth approaches and efforts are what will make or break any path I go down.***
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/purplehaynes/purplehaynes.github.io-reading-notes-/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
