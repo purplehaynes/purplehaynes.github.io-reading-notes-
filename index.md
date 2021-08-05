@@ -17,7 +17,7 @@ Some ways I plan to maintain a grouwth mindset are
 ***Maintaining these growth approaches and efforts are what will make or break any path I go down.***
 
 #### Table of Contents
--[Growth Mindset](https://github.com/purplehaynes/purplehaynes.github.io-reading-notes-/blob/main/README.md)
--[The Coder's Computer](https://github.com/purplehaynes/purplehaynes.github.io-reading-notes-/blob/main/The%20Coder's%20Computer.md)
--[Learning Markdown](https://github.com/purplehaynes/purplehaynes.github.io-reading-notes-/blob/main/Learning%20Markdown.md)
--[Intro to Git](https://github.com/purplehaynes/purplehaynes.github.io-reading-notes-/blob/main/Intro%20to%20Git.md)
+-[Growth Mindset](https://purplehaynes.github.io/purplehaynes.github.io-reading-notes-/README)
+-[The Coder's Computer](https://purplehaynes.github.io/purplehaynes.github.io-reading-notes-/The-Coders-Computer)
+-[Learning Markdown](https://purplehaynes.github.io/purplehaynes.github.io-reading-notes-/Learning-Markdown)
+-[Intro to Git](https://purplehaynes.github.io/purplehaynes.github.io-reading-notes-/Intro-to-Git)
